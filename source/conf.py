@@ -5,7 +5,7 @@
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
-import sphinx-openclimate-theme
+import sphinx_openclimate_theme
 
 project = 'Open Climate Community of Practice'
 copyright = '2024, Ian Edwards'
